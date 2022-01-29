@@ -1,0 +1,37 @@
+commit 990bca0c899a600340a2f7126d8a48845d0f6e86 (HEAD -> master)
+Author: Sandy NGUYEN <snguye44@teaching.CS.McGill.CA>
+Date:   Sun Apr 25 23:09:55 2021 -0400
+
+    FINAL VERSIONS – Fixed all all all mistakes
+
+commit 146294eec3593da11549e8485cecf529dadcbe83
+Author: Sandy NGUYEN <snguye44@teaching.CS.McGill.CA>
+Date:   Sat Apr 24 17:18:00 2021 -0400
+
+    Updated zoomrecs.c to be more efficient
+
+commit ca84e355378bd9901cce43b551e5e277cf6fd62b
+Author: Sandy NGUYEN <snguye44@teaching.CS.McGill.CA>
+Date:   Thu Apr 22 17:38:14 2021 -0400
+
+    Fixed errors in labapp.c zoomrecs.c zoomrecs.h + Created the makefile
+
+commit 35b18a8b8564ddfec9377b0877e7ce0bc603b7a0
+Author: Sandy NGUYEN <snguye44@teaching.CS.McGill.CA>
+Date:   Thu Apr 22 16:55:03 2021 -0400
+
+    Finished writing csv2html.sh
+
+commit 9b2bf28ef151a8d6bae4f133e4e032b875ae2559
+Author: Sandy NGUYEN <snguye44@teaching.CS.McGill.CA>
+Date:   Thu Apr 22 15:07:03 2021 -0400
+
+    Finished writing gdb.txt
+
+commit fbe8954de37ca6799fd03255d0213b917669af07
+Author: Sandy NGUYEN <snguye44@teaching.CS.McGill.CA>
+Date:   Tue Apr 20 21:41:52 2021 -0400
+
+    Finished writing labapp.c zoomrecs.c roomrecs.h
+
+commit 8861b03645d31164c2d58d7b22e2000a426e6e37
